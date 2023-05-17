@@ -1,0 +1,17 @@
+.logo{
+  display: inline-block;
+  height: 38px;
+  width: 38px;
+  /*transition: transform .3s ease-in;*/
+  transition: opacity .3s ease-in;
+}
+
+.logo:hover{
+  cursor: pointer;
+  opacity: .5;
+}
+.logo_pic{
+  object-fit: contain;
+  height: 38px;
+  width: 38px;
+}
