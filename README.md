@@ -1,7 +1,7 @@
 ### Установка FrontEnd (запускается локально)
 1: clone repository
 ``` 
-git clone https://github.com/olegvpc/laravel-riit.git
+git clone https://github.com/olegvpc/react-riit.git
 ```
 2: cd to work-project
 
